@@ -1,0 +1,26 @@
+
+/* .main-hed {
+    top: 50px;
+}
+
+.nev-main {
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 0px;
+} */
+
+
+
+.viaan-name {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-shadow: 2px 2px 10px rgb(225, 135, 0);
+}
+
+.nav-logo{
+    width: 100px;
+}
+

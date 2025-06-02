@@ -1,0 +1,105 @@
+
+
+.hero-Home-section {
+    position: relative;
+    width: 100%;
+    height: 1000px;
+    overflow: hidden;
+    z-index: -2;
+    background-color: black;
+}
+
+
+
+.hero-bg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.5;
+}
+
+.overlay-Home-text {
+    position: absolute;
+    top: 25%;
+    left: 12%;
+    /* transform: translate(-50%, -50%); */
+    /* font-size: 48px; */
+    color: white;
+    /* font-weight: 500; */
+    z-index: 2;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    /* margin-top: 20px; */
+}
+
+
+.get-prize-btn {
+    background-color: #293660;
+}
+
+.overlay-Home-text button:hover {
+    /* background-color: white; */
+    color: black;
+    cursor: pointer;
+}
+
+.wave-contact {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+}
+
+
+.ourProduct-home {
+    background: url('https://thewingsinternational.com/wp-content/uploads/2020/05/GlitterBG-free-img.jpg');
+    height: 100%;
+    z-index: -2;
+    position: relative;
+
+
+}
+
+.ourProduct-home::before {
+    position: absolute;
+    content: " ";
+    height: 100%;
+    width: 100%;
+    background-color: #293660;
+    opacity: 0.6;
+    /* transition: all 0.3s; */
+    /* border-radius: 10px;  */
+    z-index: -1;
+
+}
+
+.main-part-brochure {
+    font-family: "Ancizar Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+
+
+
+.back-banner {
+    background-image: url(https://thewingsinternational.com/wp-content/uploads/2024/09/arrangement-frozen-food-table_23-2148969436.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.back-banner .opacity {
+    background: rgba(0, 0, 0, 0.367);
+    padding: 74px 0 80px 0;
+}
+
+.rewiew-cardes:hover {
+    /* border: 1px solid; */
+    transform: scale(1.1);
+    transition: transform 1s ease-in-out;
+}
