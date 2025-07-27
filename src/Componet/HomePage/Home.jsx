@@ -17,7 +17,7 @@ const Home = () => {
       <div class="hero-Home-section z-1 h-100 ">
         <img src="https://thewingsinternational.com/wp-content/uploads/2024/09/display-different-fruits-including-one-that-saysveggieson-it_1241530-1237.jpg" alt="Food background" class="hero-bg" />
         <div class="overlay-Home-text ">
-          <h4 className='py-2'>112 ,SUNRISE BUSINESS HUB, GURUKUL CIRCLE, NIKOL, AHMEDABAD</h4>
+          <h4 className='py-2'>102  Titanium Business park , makarba - Ahmdabad</h4>
           <h1 className='py-2'>Connecting Global Markets</h1>
           <h1 className='py-2'>with Premium Indian Products</h1>
           <p className='py-2'>At The Viaan Enterprice, we specialize in exporting a diverse range of high-quality frozen <br /> and dry foods from India. Explore our extensive selection and experience unmatched <br /> freshness and flavor delivered worldwide.</p> <br />
