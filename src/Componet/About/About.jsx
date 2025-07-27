@@ -35,7 +35,7 @@ const About = () => {
                             <h3 className='py-3'>Our Commitment</h3>
                             <p className='pb-4'>Quality is at the heart of everything we do. We work closely with trusted suppliers and adhere to rigorous quality control processes to ensure that our products meet international standards. Our team is passionate about delivering excellence and is always ready to address your needs and provide the support you require.</p>
                             <h5 className='py-3'>Join Us on Our Journey</h5>
-                            <p>As we expand our reach to new markets around the world, we invite you to experience the exceptional quality and authenticity of Wings International’s products. Whether you are a distributor, retailer, or a valued customer, we look forward to building lasting relationships and contributing to your success.</p>
+                            <p>As we expand our reach to new markets around the world, we invite you to experience the exceptional quality and authenticity of Viaan Enterprice’s products. Whether you are a distributor, retailer, or a valued customer, we look forward to building lasting relationships and contributing to your success.</p>
                             <div className="row">
                                 <div className="col-lg-6 col-12 my-2"><i class="fa-solid fa-phone"></i> +91 9274000198</div>
                                 <div className="col-lg-6 col-12 my-2"><i class="fa-solid fa-envelope"></i> Viaanenterprise26@gmail.com</div>

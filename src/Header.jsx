@@ -34,13 +34,13 @@ const Header = () => {
         </div>
       </div> */}
 
-      <nav className="navbar navbar-expand-lg bg-transparent position-absolute z-3 w-100 m-lg-0 mb-5">
-        <div className="container p-0   nev-main">
-          <a className="navbar-brand " href="#">
+      <nav className="navbar navbar-expand-lg bg-black  position-sticky z-3 w-100 m-lg-0">
+        <div className="container p-0   nev-main text-white">
+          <a className="navbar-brand  " href="#">
             {" "}
           </a>
           <button
-            className="navbar-toggler my-3"
+            className="navbar-toggler my-3 text-white"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarSupportedContent"
@@ -48,7 +48,7 @@ const Header = () => {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span className="navbar-toggler-icon "></span>
+            <span className="navbar-toggler-icon bg-white"></span>
           </button>
           <div
             className="collapse navbar-collapse row "

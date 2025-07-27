@@ -24,10 +24,10 @@ const Product = () => {
     return (
         <>
             <Header />
-            <div class="hero-section">
+            <div className="hero-section">
                 <img src="https://thewingsinternational.com/wp-content/uploads/2024/09/delicious-foods-celebration-scaled.jpg" alt="Food background" class="hero-bg" />
-                <div class="overlay-text shadow">Products</div>
-                <svg class="wave" viewBox="0 0 1440 150" xmlns="http://www.w3.org/2000/svg">
+                <div className="overlay-text shadow">Products</div>
+                <svg className="wave" viewBox="0 0 1440 150" xmlns="http://www.w3.org/2000/svg">
                     <path fill="rgb(255,255,255)" className='nn' d="M0,80 C480,200 960,0 1440,80 L1440,150 L0,150 Z"></path>
 
                 </svg>
@@ -36,7 +36,7 @@ const Product = () => {
             <div className="section2 py-5">
                 <div className="mm text-center">
                     <h1 className=' '>Let's View our Products</h1>
-                    <p class="elementor-image-box-description">Explore our diverse range of premium frozen and dried food products, crafted for quality and flavor.</p>
+                    <p className="elementor-image-box-description">Explore our diverse range of premium frozen and dried food products, crafted for quality and flavor.</p>
                 </div>
             </div>
 
@@ -52,7 +52,7 @@ const Product = () => {
                         <div className='col-lg-8 col-12 py-5'>
                             <h1 className=' text-white  ' >Download Our Product Brochure</h1>
                             <p> Explore our full range of premium frozen and dry foods. Download our brochure to see detailed product
-                                <br /> information and discover how Wings International can meet your needs.</p>
+                                <br /> information and discover how Viaan Enterprice can meet your needs.</p>
                         </div>
                         <div className="col-lg-4 col-12 align-items-lg-center d-flex">
                             <button className='d-btn bg-transparent text-light px-lg-5 py-lg-3 px-2 py-1 border-light border-2 rounded-3 '>DOWNLOAD BROCHURE</button>

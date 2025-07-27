@@ -20,7 +20,7 @@ const Home = () => {
           <h4 className='py-2'>112 ,SUNRISE BUSINESS HUB, GURUKUL CIRCLE, NIKOL, AHMEDABAD</h4>
           <h1 className='py-2'>Connecting Global Markets</h1>
           <h1 className='py-2'>with Premium Indian Products</h1>
-          <p className='py-2'>At The Wings International, we specialize in exporting a diverse range of high-quality frozen <br /> and dry foods from India. Explore our extensive selection and experience unmatched <br /> freshness and flavor delivered worldwide.</p> <br />
+          <p className='py-2'>At The Viaan Enterprice, we specialize in exporting a diverse range of high-quality frozen <br /> and dry foods from India. Explore our extensive selection and experience unmatched <br /> freshness and flavor delivered worldwide.</p> <br />
           <div className=' d-flex'>
             <Link to="/product" className="nav-link text-light">
               <button className='get-prize-btn px-5 py-3  border-0 rounded-3 me-5 text-light my-3' ><b>GET PRIZE</b></button>
@@ -48,8 +48,8 @@ const Home = () => {
           <div className="col-lg-5  col-md-12 p-lg-4">
             <div className='py-5 '>
               <h6>Welcome To</h6>
-              <h2>The Wings International</h2>
-              <p className='pb-5'>At Wings International, we are dedicated to bringing the finest frozen and dry food products from India to the global market. Established with a vision to connect international consumers with the rich flavors and quality of Indian produce, we pride ourselves on our extensive range of products and our commitment to excellence.</p>
+              <h2>The Viaan Enterprice</h2>
+              <p className='pb-5'>At Viaan Enterprice, we are dedicated to bringing the finest frozen and dry food products from India to the global market. Established with a vision to connect international consumers with the rich flavors and quality of Indian produce, we pride ourselves on our extensive range of products and our commitment to excellence.</p>
 
               <button className='get-prize-btn  px-5 py-2 text-light border-0 rounded-3'>KNOW MORE</button>
             </div>
@@ -63,7 +63,7 @@ const Home = () => {
             <div className='col-lg-8 col-12 py-5'>
               <h1 className=' text-white  ' >Download Our Product Brochure</h1>
               <p> Explore our full range of premium frozen and dry foods. Download our brochure to see detailed product
-                <br /> information and discover how Wings International can meet your needs.</p>
+                <br /> information and discover how Viaan Enterprice can meet your needs.</p>
             </div>
             <div className="col-lg-4 col-12 align-items-lg-center d-flex">
               <button className='d-btn bg-transparent text-light px-lg-5 py-lg-3 px-2 py-1 border-light border-2 rounded-3 '>DOWNLOAD BROCHURE</button>
@@ -120,7 +120,7 @@ const Home = () => {
         <div className="opacity">
           <div className=' container text-light py-5'>
             <h1 className=' py-3'>Uncompromising Quality, Exceptional Taste</h1>
-            <p>At The Wings International, quality is the cornerstone of everything we do. We are dedicated to sourcing the finest ingredients and utilizing state-of-the-art processes to ensure that our frozen and dry foods meet the highest international standards. Each product is crafted with care and precision, maintaining unparalleled freshness and flavor. Our rigorous quality control and commitment to excellence ensure that every item not only meets but exceeds your expectations. Experience the rich, authentic taste and reliability of our products, and see why Wings International is the trusted choice for premium food solutions worldwide.</p>
+            <p>At The Viaan Enterprice, quality is the cornerstone of everything we do. We are dedicated to sourcing the finest ingredients and utilizing state-of-the-art processes to ensure that our frozen and dry foods meet the highest international standards. Each product is crafted with care and precision, maintaining unparalleled freshness and flavor. Our rigorous quality control and commitment to excellence ensure that every item not only meets but exceeds your expectations. Experience the rich, authentic taste and reliability of our products, and see why Viaan Enterprice is the trusted choice for premium food solutions worldwide.</p>
           </div>
         </div>
       </div>
@@ -131,13 +131,13 @@ const Home = () => {
         </div>
         <div className=' row  my-5  justify-content-evenly'>
           <div className="col-12 col-lg-3 my-4 p-4 text-center rewiew-cardes  rounded-3 shadow mx-3">
-            <p>The Wings International has consistently delivered top-quality products. The frozen foods are always fresh, and the dry ingredients are of exceptional quality. Highly recommend!					</p>
+            <p>The Viaan Enterprice has consistently delivered top-quality products. The frozen foods are always fresh, and the dry ingredients are of exceptional quality. Highly recommend!					</p>
             <h3>Amit S</h3>
             <p>Retailer</p>
           </div>
           <div className="col-12 col-lg-3 my-4 p-4 text-center border-dark border-1 rewiew-cardes  rounded-3 shadow mx-3">
             <p>
-              The Wings International provides a diverse range of high-quality products. Their frozen potatoes and dried fruit powders are particularly impressive and always meet our standards.					</p>
+              The Viaan Enterprice provides a diverse range of high-quality products. Their frozen potatoes and dried fruit powders are particularly impressive and always meet our standards.					</p>
             <h3>John K.</h3>
             <p>Exporter</p>
           </div>
@@ -145,7 +145,7 @@ const Home = () => {
           
           es  rounded-3 shadow mx-3">
             <p>
-              The mango pulps from Wings International are unmatched in flavor and consistency. Our customers love them, and we couldn’t be happier with the service and quality.					</p>
+              The mango pulps from Viaan Enterprice are unmatched in flavor and consistency. Our customers love them, and we couldn’t be happier with the service and quality.					</p>
             <h3>Linda M</h3>
             <p>Food Distributor</p>
           </div>

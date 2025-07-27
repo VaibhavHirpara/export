@@ -38,7 +38,7 @@ const Footer = () => {
               aria-current="page"
               href="#"
             >
-              <p>NO.112 SUNRISE BUSINESS HUB,GURUKUL CIRCLE, NIKOL, AHMEDABAD - 382350</p>
+              <p>102  Titanium Business park , makarba - Ahmdabad</p>
             </Link>
 
           </div>
